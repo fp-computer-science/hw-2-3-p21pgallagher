@@ -1,0 +1,11 @@
+Question 1
+You have a few extra characters at the end of the first and 4th lines.
+
+Question 2
+Your variables are not very descriptive. You don't need to declare the types of variables.
+
+Question 3
+Your calculations are a bit off.
+
+Question 4
+This question is incomplete.
